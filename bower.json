@@ -1,0 +1,24 @@
+{
+  "name": "loopinglui",
+  "version": "0.1.0",
+  "authors": [
+    "Simon Kusterer <simon@sope.io>"
+  ],
+  "description": "change background images in a certain interval",
+  "main": "jquery-loopinglui.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "loop",
+    "circulate",
+    "background"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/xat/jquery-loopinglui",
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ]
+}
